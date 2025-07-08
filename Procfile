@@ -1,2 +1,2 @@
-gunicorn portfolio_project.wsgi:application
+gunicorn port_website.wsgi:application
 
